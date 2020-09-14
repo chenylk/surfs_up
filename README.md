@@ -11,3 +11,4 @@
  ![Dec_temps](https://github.com/chenylk/surfs_up/blob/master/resources/dec_statistics.PNG).
 
 ## Summary
+  * After looking at the data, the temperature in Oahu seems acceptable to have business thrive year round. The temperature is still warm in the winter which allows for these businesses to stay open. Additional queries that would help the project are the average precipitation for the months of June and December, and the temperature and precipitation for other months in the winter and summer seasons. 
